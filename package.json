@@ -14,7 +14,6 @@
     "preset": "jest-preset-miaoxing"
   },
   "dependencies": {
-    "@emotion/react": "^11.1.5"
   },
   "devDependencies": {
     "@miaoxing/dev": "^7.0.1",
