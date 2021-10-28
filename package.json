@@ -28,6 +28,5 @@
   },
   "ciDependencies": {
     "@miaoxing/dev": "miaoxing/dev"
-  },
-
+  }
 }
