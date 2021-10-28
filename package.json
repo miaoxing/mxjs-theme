@@ -1,6 +1,6 @@
 {
   "name": "@mxjs/theme",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
@@ -15,7 +15,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@miaoxing/dev": "^7.0.1",
+    "@miaoxing/dev": "^8.0.0",
     "@testing-library/react": "^11.2.6"
   },
   "ciDependencies": {

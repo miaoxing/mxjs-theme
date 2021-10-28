@@ -1,3 +1,18 @@
+## [0.1.1](https://github.com/miaoxing/mxjs-theme/compare/v0.1.0...v0.1.1) (2021-10-28)
+
+
+### Features
+
+* **theme:** 增加 `ThemeProvider` 组件和 `useTheme` 方法 ([5af1387](https://github.com/miaoxing/mxjs-theme/commit/5af1387b5a309d3b2da26eef4aa43b44efb5ca77))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `7.0.1` to `8.0.0`
+
 # 0.1.0 (2021-09-15)
 
 
