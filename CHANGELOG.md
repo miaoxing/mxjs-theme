@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/miaoxing/mxjs-theme/compare/v1.0.8...v1.1.0) (2024-01-31)
+
+
+### Features
+
+* 更新 `react` 支持 18 ([80ac801](https://github.com/miaoxing/mxjs-theme/commit/80ac80153dfcb9047c5fb0f79ca56cfb94bf0296))
+
 ## [1.0.8](https://github.com/miaoxing/mxjs-theme/compare/v1.0.7...v1.0.8) (2024-01-08)
 
 
