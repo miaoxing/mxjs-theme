@@ -1,6 +1,6 @@
 {
   "name": "@mxjs/theme",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
@@ -17,7 +17,7 @@
     "@emotion/react": "^11.1.5"
   },
   "devDependencies": {
-    "@miaoxing/dev": "^9.1.0",
+    "@miaoxing/dev": "^9.1.1",
     "@testing-library/react": "^14",
     "react": ">=16.13.1",
     "react-dom": ">=16.13.1"
