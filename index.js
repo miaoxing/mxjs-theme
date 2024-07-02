@@ -1,1 +1,6 @@
-export {ThemeProvider, useTheme} from '@emotion/react';
+import {ThemeProvider, useTheme} from '@emotion/react';
+
+export {
+  ThemeProvider,
+  useTheme,
+};
