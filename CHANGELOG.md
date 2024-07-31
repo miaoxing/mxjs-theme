@@ -1,3 +1,18 @@
+## [1.1.2](https://github.com/miaoxing/mxjs-theme/compare/v1.1.1...v1.1.2) (2024-07-31)
+
+
+### Bug Fixes
+
+* `export default from` 改为标准语法 ([8f90fed](https://github.com/miaoxing/mxjs-theme/commit/8f90fedcc740632a0f57496eeddc0a190f3af5c8))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `9.1.1` to `9.1.2`
+
 ## [1.1.1](https://github.com/miaoxing/mxjs-theme/compare/v1.1.0...v1.1.1) (2024-03-31)
 
 
